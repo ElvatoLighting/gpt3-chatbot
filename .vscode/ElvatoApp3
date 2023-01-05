@@ -1,0 +1,8 @@
+pip install django
+pip install django
+pip3 install django
+pip install --upgrade pip
+pip3 --version
+pip3 version
+pip install --upgrade pip
+python pip3 version
